@@ -20,3 +20,25 @@
     display: block;
     clear: both;
 }
+
+.wrapper {
+    display: flex;
+}
+.wrapper {
+    flex-wrap: wrap;
+}
+
+.wrapper {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    background-color: #ccc;
+    height: 600px;
+    align-items: center;
+}
+.wrapper {
+    height: initial;
+    flex-direction: column;
+}
+.text {
+    text-align: center;
+}
