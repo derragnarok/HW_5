@@ -1,0 +1,22 @@
+
+
+.left-block {
+    float: left;
+    width: 30%;
+    box-sizing: border-box;
+}
+
+.right-block {
+    float: right;
+    width: 30%;
+    box-sizing: border-box;
+}
+
+.center-block {
+   float: auto;
+    width: 100%;
+    box-sizing: border-box;
+}
+.container {
+    text-align: center;
+}
