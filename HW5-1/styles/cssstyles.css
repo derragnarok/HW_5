@@ -13,7 +13,7 @@
 }
 
 .center-block {
-   float: auto;
+   float: center;
     width: 100%;
     box-sizing: border-box;
 }
